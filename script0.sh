@@ -1,6 +1,6 @@
 #!/bin/bash
 #The first script creates folders for each month in each year from 2006 to 20014 and downloads a propriate .zip file,
-# unzips only a file that we are looking for and deletes the original .zip file .
+#unzips only a file that we are looking for and deletes the original .zip file .
 
 for year in {2006..2014}
 do
